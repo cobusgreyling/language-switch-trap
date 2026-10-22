@@ -1,0 +1,5 @@
+{"type":"journey","id":"failed-delivery","title":"Failed delivery","switch":"English to French","require":["14 rue de la paix","livraison"]}
+{"type":"user","lang":"en","text":"The parcel failed delivery at 14 Rue de la Paix."}
+{"type":"agent","lang":"en","text":"I have a failed delivery at 14 Rue de la Paix."}
+{"type":"user","lang":"fr","text":"Oui. Relancez la livraison à 14 Rue de la Paix.","switch":true}
+{"type":"agent","lang":"fr","text":"Bonjour. Comment puis-je vous aider aujourd'hui?"}

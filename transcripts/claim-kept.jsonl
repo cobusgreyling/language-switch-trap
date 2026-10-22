@@ -1,0 +1,5 @@
+{"type":"journey","id":"claim-field","title":"Missing claim field","switch":"en-ZA English to Afrikaans","require":["gister","eis"]}
+{"type":"user","lang":"en-ZA","text":"I need to register a claim. The incident date is missing."}
+{"type":"agent","lang":"en-ZA","text":"I can register the claim once I have the incident date."}
+{"type":"user","lang":"af","text":"Dit het gister gebeur. Gaan aan met die eis.","switch":true}
+{"type":"agent","lang":"af","text":"Die voorvaldatum is gister. Ek registreer die eis nou."}

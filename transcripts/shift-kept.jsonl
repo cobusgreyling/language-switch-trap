@@ -1,0 +1,5 @@
+{"type":"journey","id":"shift-swap","title":"Shift swap","switch":"en-NG English to Pidgin","require":["tunde","shift"]}
+{"type":"user","lang":"en-NG","text":"I need a shift swap with Tunde for tomorrow."}
+{"type":"agent","lang":"en-NG","text":"I can request a shift swap with Tunde for tomorrow."}
+{"type":"user","lang":"pcm","text":"Abeg send am. Make Tunde take my shift tomorrow.","switch":true}
+{"type":"agent","lang":"pcm","text":"Shift swap with Tunde for tomorrow don send."}
